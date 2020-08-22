@@ -1,0 +1,289 @@
+.a{
+    width: 1580px;
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    position: fixed;
+}
+
+/* gambar parrot anafi */
+img{
+    width: 1579px;
+    height: auto;
+}
+
+/* search box */
+
+/* input{
+    height: 30px;
+    align-self: center;
+    padding-inline-start: 10%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-end;
+    object-position: right;
+    margin-right: unset;
+
+}
+
+#searchBar{
+    height: 30px;
+    align-self: center;
+    padding-left: 460px;
+    border-radius: 20px;
+    width: 800px;
+} */
+
+.home:visited{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.home:link{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+body{
+    margin: 0px;
+}
+
+.Anafi{
+    color: whitesmoke   ;
+    display: flex;
+    flex-flow: row;
+    padding-left: 64px;
+    /* margin-left: 64px; */
+    font-size: 20px;
+}
+h2{
+    padding-left: 70px;
+}
+
+/* a:link{
+    color: whitesmoke;
+    display: flex;
+    flex-flow: row;
+    padding-left: 64px;
+    font-size: large;
+} */
+
+a:link{
+    width: 115px;
+    height: 60px;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    font-family: 'Playfair Display', serif;
+}
+
+.c{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.m{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.y{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.k{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+/* ______________________________________________Mulai Ke Tulisan___________________________________ */
+
+.Tulisan{
+    font-size: 11px;
+    font-weight: lighter;
+    color: black;
+    display: flex;
+    justify-content: center;
+    /* font-family: 'Playfair Display', serif; */
+    padding: 15px 20px;
+    /* margin-top: ; */
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Lato', sans-serif;
+
+}
+
+/* h2{
+    font-family: 'Playfair Display', serif;
+    font-size: small;
+} */
+
+/* .usa{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Roboto Mono', monospace;
+} */
+
+.USA2{
+    width: 750px;
+    height: auto;
+    display: flex;
+    justify-content: start;
+    font-family: 'roboto mono', monospace;
+    margin: 0px;
+    padding: 15px 20px;
+}
+
+
+/*_______________________________________________ BLOCK BAWAH____________________________________________________ */
+
+.bawah{
+    background-color: black;
+    color: whitesmoke;
+    height: 240px;
+    padding-left: 0px;   
+    margin: 0px;
+    /* display: flex; */
+    /* justify-content: flex-start; */
+}
+
+.tb{
+    margin: 0px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.pnpfc{
+    font-size: 15px;
+    padding-left: 0px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tbp{
+    margin-left: 0px;
+    font-size: 20px;
+}
+/* _____________________________logo instagram____________________  */
+.fa-instagram{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-instagram:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-instagram:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/* _____________________________logo youtube_______________________ */
+.fa-youtube-play{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-youtube-play:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-youtube-play:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*____________________________logo facebook_________________________ */
+.fa-facebook-square{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-facebook-square:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-facebook-square:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*____________________________logo twitter___________________________ */
+.fa-twitter{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-twitter:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-twitter:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+i{
+    color: whitesmoke;
+    text-decoration: none;    
+}
+
+i:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+i:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+/* _____________________________________anchor class */
+.original{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.original:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.original:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+.description{
+    display: flex;
+    flex-flow: column;
+    color: black;
+}
+

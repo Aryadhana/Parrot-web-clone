@@ -1,0 +1,439 @@
+.a{
+    width: 1584px;
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    position: fixed;
+
+}
+body{
+    margin: 0px;
+    /* display: flex;
+    flex-flow: row; */
+    /* background-color: rgb(43, 43, 43); */
+    color: whitesmoke;
+}
+
+.Anafi{
+    color: whitesmoke   ;
+    display: flex;
+    flex-flow: row;
+    padding-left: 64px;
+    font-size: 20px;
+}
+h2{
+    padding-left: 70px;
+}
+
+.home:visited{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.home:link{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+/* a:link{
+    color: whitesmoke;
+    display: flex;
+    flex-flow: row;
+    padding-left: 64px;
+    font-size: 40px;
+} */
+
+a:link{
+    width: 115px;
+    height: 70px;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    font-family: 'Playfair Display', serif;
+}
+
+.c{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.m{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.y{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.k{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+/*_______________________________ description */
+
+/* .ad{
+    display: flex;
+    flex-flow: column;
+}
+
+img{
+    width: 1579px;
+    height: auto;
+    margin: none;
+}
+
+.first{
+    position: absolute;
+    top: 150px;
+    left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+}
+
+.picturetitle{
+    position: absolute;
+    top: 180px;
+    left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+}
+
+.under{
+    display: flex;
+    flex-flow: row;
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid transparent;
+}
+
+.spec{
+    display: flex;
+    margin: opx;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+    font-weight: lighter;
+    position: relative;
+} */
+
+/*____________ description 2 */
+
+.shop{
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: rgb(49,140, 231);
+    width: 100px;
+    height: 50px;
+    padding: 10px 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    border-color: currentColor;
+    border-top-color: currentColor;
+    border-right-color: currentColor;
+    border-bottom-color: currentColor;
+    border-left-color: currentColor;
+}
+
+.shop:link{
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: rgb(49,140, 231);
+    width: 100px;
+    height: 50px;
+    padding: 10px 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    border-color: currentColor;
+    border-top-color: currentColor;
+    border-right-color: currentColor;
+    border-bottom-color: currentColor;
+    border-left-color: currentColor;
+}
+
+.shop:visited{
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: rgb(49,140, 231);
+    width: 100px;
+    height: 50px;
+    padding: 10px 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    border-color: currentColor;
+    border-top-color: currentColor;
+    border-right-color: currentColor;
+    border-bottom-color: currentColor;
+    border-left-color: currentColor;
+}
+
+.buy{
+    align-content: center;
+    margin-top: 15px;
+    border-color: currentColor;
+    border-top-color: currentColor;
+    border-right-color: currentColor;
+    border-bottom-color: currentColor;
+    border-left-color: currentColor;
+    text-decoration: none;
+}
+
+/* p{    
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;    
+} */
+
+.prolog{
+    margin-top: 15px;
+    display: flex;
+}
+
+.ad{
+    display: flex;
+    flex-flow: column;
+}
+
+img{
+    width: 1579px;
+    height: auto;
+    /* margin: none; */
+}
+
+.first{
+    /* position: absolute; */
+    top: 150px;
+    left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+}
+
+.picturetitle{
+    /* position: absolute; */
+    top: 180px;
+    left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+}
+
+.under{
+    display: flex;
+    flex-flow: row;
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid transparent;
+}
+
+.spec{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+    font-weight: lighter;
+    /* position: relative; */
+}
+
+/* _________________________gambar description */
+
+.gambar{
+    display: flex;
+    /* flex-flow: column; */
+    flex-wrap: wrap;
+    width:100%;
+    height: auto;
+    /* border-radius: 10px; */
+    margin-left: 0px;
+    /* border: 5px solid transparent; */
+    /* position: fixed; */
+    background-color: rgb(245, 245, 245);
+    margin-left: 0px;
+}
+
+.fa-play-circle-o{
+    color: rgb(49,140, 231);
+    /* display: inline; */
+    /* position: absolute; */
+}
+
+/* .fa-play-circle{
+    color: rgb(49, 140, 231);
+    border-radius: 50%;
+    border-color: whitesmoke;
+} */
+
+
+.under{
+    display: flex;
+    flex-flow: row;
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid transparent;
+}
+
+.desc{
+    width: 100%;
+    /* position: fixed; */
+    background-color:  white;
+}
+
+
+
+/*_______________________________________________ BLOCK BAWAH____________________________________________________ */
+
+.bawah{
+    background-color: black;
+    color: whitesmoke;
+    height: 240px;
+    padding-left: 0px;   
+    margin: 0px;
+    /* display: flex; */
+    /* justify-content: flex-start; */
+}
+
+.tb{
+    margin: 0px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.pnpfc{
+    font-size: 15px;
+    padding-left: 0px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tbp{
+    margin-left: 0px;
+    font-size: 20px;
+}
+/* _____________________________logo instagram____________________  */
+.fa-instagram{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-instagram:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-instagram:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/* _____________________________logo youtube_______________________ */
+.fa-youtube-play{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-youtube-play:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-youtube-play:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*____________________________logo facebook_________________________ */
+.fa-facebook-square{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-facebook-square:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-facebook-square:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*____________________________logo twitter___________________________ */
+.fa-twitter{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-twitter:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.fa-twitter:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+i{
+    color: whitesmoke;
+    text-decoration: none;    
+}
+
+i:link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+i:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+/* _____________________________________anchor class */
+.original{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.original:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.original:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.description{
+    display: flex;
+    flex-flow: column;
+    color: black;
+}
+
